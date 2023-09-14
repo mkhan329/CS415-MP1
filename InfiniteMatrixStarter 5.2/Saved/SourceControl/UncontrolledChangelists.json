@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Healthbae.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Body.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/bullet.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/health.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Material.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Scene_-_Root.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/sphere.uasset",
+				"C:/Users/moyee/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset"
+			]
+		}
+	]
+}
